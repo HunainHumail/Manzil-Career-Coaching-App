@@ -1,0 +1,14 @@
+com/manzil/ReactNativeFlipper.java
+ com.manzil.ReactNativeFlipper
+ com.manzil.ReactNativeFlipper$1
+ com.manzil.ReactNativeFlipper$2
+ com.manzil.ReactNativeFlipper$2$1
+com/manzil/MainActivity.java
+ com.manzil.MainActivity
+com/manzil/MainApplication.java
+ com.manzil.MainApplication
+ com.manzil.MainApplication$1
+com/manzil/BuildConfig.java
+ com.manzil.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
