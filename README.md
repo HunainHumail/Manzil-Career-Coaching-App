@@ -97,3 +97,5 @@ Pakistan is developing we want our youth to be more productive in the upcoming y
 ### Our Next Step
 
 Build a team of experts, onboarding students and coaches on ***Manzil**. Update our tech stack and use machine learning to scale data and improve the students and coaches experience.
+
+For More info what are our thoughts. [Click me to find out!](https://docs.google.com/document/d/1KqXZapvAgpC2qhXb3Ux6EX7nW5TZtoqPdd63r43ueK0/edit?usp=sharing)
