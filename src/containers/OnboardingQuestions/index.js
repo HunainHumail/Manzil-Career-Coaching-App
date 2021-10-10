@@ -2,12 +2,12 @@ import React, { useState } from "react";
 import { View, Text, ImageBackground } from "react-native";
 import { BasicHeader, MButton } from "../../components";
 import { Metrix, Colors, Images, NavigationService, Fonts } from "../../config";
-import ContentJson from "../../json/content.json";
+import content from "../../json/content.js";
 
 import { FlatList } from "react-native-gesture-handler";
 
 export const OnboardingQuestions = (props) => {
-  const [data, setData] = useState(ContentJson[0]);
+  const [data, setData] = useState(content[0]);
   const [count, setCount] = useState(0);
 
   const handleFilteredData = () => {
@@ -16,7 +16,7 @@ export const OnboardingQuestions = (props) => {
     newCount++;
     setCount(newCount);
     if (newCount <= 2) {
-      const filterdData = ContentJson.filter((item) =>
+      const filterdData = content.filter((item) =>
         item.type.includes(newCount.toString())
       );
       setData(filterdData);
@@ -46,7 +46,7 @@ export const OnboardingQuestions = (props) => {
   console.log("COUNT...", count);
 
   const { question, answers } = data;
-  console.log(JSON.parse(answers))
+  // console.log(JSON.parse(answers))
   return (
     <ImageBackground
       resizeMode="cover"
@@ -77,7 +77,7 @@ export const OnboardingQuestions = (props) => {
             return (
               <View style={{ marginBottom: Metrix.VerticalSize(20) }}>
                 <MButton
-                  text={item[index]}
+                  text={itemindex}
                   onPress={() => handleFilteredData()}
                   color={Colors.Primary1}
                 />
