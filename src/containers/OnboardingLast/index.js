@@ -68,6 +68,7 @@ export const OnboardingLast = (props) => {
         </View>
         <View style={{width: '100%', justifyContent: 'flex-end', flexDirection: 'row', paddingHorizontal: Metrix.HorizontalSize(20)}}>
         <TouchableOpacity
+            onPress = {() => NavigationService.navigate('ThankYouScreen')}
           style={{
               marginTop: Metrix.VerticalSize(40),
             height: Metrix.HorizontalSize(57),
