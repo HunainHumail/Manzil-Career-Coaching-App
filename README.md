@@ -35,7 +35,7 @@ Initially gathering the information on how we can approach to create a solution 
 
 ----------
 
-### Our Goals & Accomplishment
+### Our Goals & Accomplishments
 
 As our goal is the betterment of Pakistan and to bring the right career path for the students. Therefore, we have to consider 2 traits.
 
