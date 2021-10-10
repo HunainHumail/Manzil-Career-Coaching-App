@@ -4,7 +4,7 @@ import Colors from './colors';
 import Metrix from './metrix';
 import NavigationService from './navigationService';
 import ApiCaller from './api';
-import NotificationService from './NotificationService';
+// import NotificationService from './NotificationService';
 import DownloadService from './DownloadService';
 import { SaveCompRef, GetCompRef } from './componentRefs';
 import CountriesList from './countries.json';
@@ -15,7 +15,7 @@ export {
   Metrix,
   ApiCaller,
   NavigationService,
-  NotificationService,
+  // NotificationService,
   DownloadService,
   SaveCompRef,
   GetCompRef,
