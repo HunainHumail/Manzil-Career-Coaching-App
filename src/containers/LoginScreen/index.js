@@ -16,7 +16,7 @@ import {
   Images,
   NavigationService,
   Fonts,
-  NotificationService,
+  // NotificationService,
 } from "../../config";
 import { validateEmail, showToast } from "../../config/utills";
 import { AuthActions } from "../../store/actions";

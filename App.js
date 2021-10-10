@@ -19,7 +19,7 @@
  import {store} from './src/store/';
  import {Root} from 'native-base';
  import {MainStack} from './src/stacks/MainStack';
- import messaging from '@react-native-firebase/messaging';
+//  import messaging from '@react-native-firebase/messaging';
  import PushNotification from 'react-native-push-notification';
  import {AppActions} from './src/store/actions';
  import AsyncStorage from '@react-native-community/async-storage';
