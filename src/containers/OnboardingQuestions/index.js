@@ -46,6 +46,7 @@ export const OnboardingQuestions = (props) => {
   console.log("COUNT...", count);
 
   const { question, answers } = data;
+  console.log(JSON.parse(answers))
   return (
     <ImageBackground
       resizeMode="cover"
