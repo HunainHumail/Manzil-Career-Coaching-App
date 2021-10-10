@@ -2,6 +2,18 @@
 
 # Manzil (Mustaqbil ki Manzil) - Career Counselling App
 
+#### Appendix
+ > - [Background & Inspiration](https://github.com/HunainHumail/Manzil-Career-Coaching-App#background--inspiration)
+ > - [Manzil Formation](https://github.com/HunainHumail/Manzil-Career-Coaching-App#manzil-formation)
+ > - [Manzil Idea](https://github.com/HunainHumail/Manzil-Career-Coaching-App#manzil-idea)
+ > - [Building Manzil](https://github.com/HunainHumail/Manzil-Career-Coaching-App#building-manzil)
+ > - [Challenges](https://github.com/HunainHumail/Manzil-Career-Coaching-App#challenges)
+ > - [Our Goals & Accomplishment](https://github.com/HunainHumail/Manzil-Career-Coaching-App#our-goals--accomplishments)
+ >   - [Interests](https://github.com/HunainHumail/Manzil-Career-Coaching-App#interests)
+ >   - [Strengths](https://github.com/HunainHumail/Manzil-Career-Coaching-App#strengths)
+ > - [What We Learned](https://github.com/HunainHumail/Manzil-Career-Coaching-App#what-we-learned)
+ > - [Our Next Step](https://github.com/HunainHumail/Manzil-Career-Coaching-App#our-next-step)
+
 ### Background & Inspiration
 
 In Pakistan, most of the students don't have the opportunity to get career counselling. Even when they are doing bachelors, they are continuously thinking about their career decision. Even after graduation, they feel ambiguous about their decision their whole life that revolving cycle continues for their children and their children.
@@ -29,9 +41,9 @@ We came up with an idea to bring change.  **Manzil**  is an app that connects yo
 ### Building Manzil
 Choosing the right tool is important. We decided to develop a mobile application. The technology stack that we are/ will be using is as follows:
 > - React-Native
->  - Firebase
->  - Node JS
->  - Adobe XD
+> - Firebase
+> - Node JS
+> - Adobe XD
 
 ---
 ![19198424- Converted -new](https://user-images.githubusercontent.com/42142889/136697149-eeaf597f-2ab2-4fd4-a9dc-166e34cdd05c.png)
@@ -75,7 +87,7 @@ As domains are expanding exponentially finding the right domain for student's is
 ---
 
 ![22517- Converted -new](https://user-images.githubusercontent.com/42142889/136697604-3de7a5b2-5d89-4b89-9501-9ad074224a6c.png)
-### What we learned
+### What We Learned
 
 Pakistan is developing we want our youth to be more productive in the upcoming years. Therefore, they need to find the right path for themselves.  **Manzil**  will provide a way to find the right career path for you and connecting you with industry experts which will guide you throughout the way and help you choose the right path for your career which will help Pakistan to grow and expand in different industries.
 
