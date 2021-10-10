@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hunainhumail/Desktop/HACKATHON/Manzil-Career-Coaching-App/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "D:\\Mobile Apps\\Manzil-Career-Coaching-App\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "/Users/hunainhumail/.gradle/caches/transforms-3/94ecee73d302f93903038c0fd7a3667d/transformed/material-1.1.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "C:\\Users\\Muhammad Arshaq\\.gradle\\caches\\transforms-3\\94ecee73d302f93903038c0fd7a3667d\\transformed\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

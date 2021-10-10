@@ -1,4 +1,4 @@
-#Sun Oct 10 03:20:07 PKT 2021
+#Sun Oct 10 14:40:21 PKT 2021
 path.1=0/classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=/Users/hunainhumail/Desktop/HACKATHON/Manzil-Career-Coaching-App/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.4=/Users/hunainhumail/Desktop/HACKATHON/Manzil-Career-Coaching-App/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.3=/Users/hunainhumail/Desktop/HACKATHON/Manzil-Career-Coaching-App/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.2=/Users/hunainhumail/Desktop/HACKATHON/Manzil-Career-Coaching-App/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.1=/Users/hunainhumail/Desktop/HACKATHON/Manzil-Career-Coaching-App/android/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
-base.0=/Users/hunainhumail/Desktop/HACKATHON/Manzil-Career-Coaching-App/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.5=D\:\\Mobile Apps\\Manzil-Career-Coaching-App\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.4=D\:\\Mobile Apps\\Manzil-Career-Coaching-App\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.3=D\:\\Mobile Apps\\Manzil-Career-Coaching-App\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.2=D\:\\Mobile Apps\\Manzil-Career-Coaching-App\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\Mobile Apps\\Manzil-Career-Coaching-App\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=D\:\\Mobile Apps\\Manzil-Career-Coaching-App\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.5=classes2.dex
 path.4=14/classes.dex
 path.3=13/classes.dex
