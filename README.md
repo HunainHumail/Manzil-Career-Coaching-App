@@ -52,13 +52,13 @@ Students' interests can vary as per their strengths. As students don't know whic
 
 **Interests and Strengths**  works along to find the right career domain. e.g. Student is interested in entertainment but it has more reality traits. The field for him is being driven from the RIASEC reality test.
 
--   Agriculture
--   Health Assistant
--   Computers
--   Construction
--   Mechanic/Machinist
--   Engineering
--   Food and Hospitality and so on...
+> -   Agriculture
+> -   Health Assistant
+> -   Computers
+> -   Construction
+> -   Mechanic/Machinist
+> -   Engineering
+> -   Food and Hospitality and so on...
 
 As domains are expanding exponentially finding the right domain for student's is becoming more and more crucial for our industries. Having both interest and strength is quite important for the person to work along for their long terms goals.
 
