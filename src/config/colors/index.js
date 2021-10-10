@@ -9,7 +9,6 @@ const Colors = {
   Shadow: '#232632',
   TextColorOpacity: (opacity = 0.15) => `rgba(64, 81, 78, ${opacity})`,
   DisabledColor: (opacity = '0.5') => `rgba(20, 60, 133, ${opacity})`,
-  Primary: '#0B172D',
   Secondary: '#143C85',
   Red: '#D62D16',
   Orange: '#FD7133',
@@ -20,12 +19,15 @@ const Colors = {
   DarkBlue: '#213251',
   DarkRed: '#BB200B',
   Gray: '#969696',
-  LightGray: '#E4E4E4',
+  LightGray: '#A2A2A2',
   Black: '#000000',
   ModalBg: '#0C1F42',
   LineColor: '#32476F',
   TextSecondary: '#FFFFFFCC',
   Green: '#228417',
+  DarkGrey: '#707070',
+  Secondary: '#977988',
+  Primary1: '#583A20'
 };
 
 export default Colors;

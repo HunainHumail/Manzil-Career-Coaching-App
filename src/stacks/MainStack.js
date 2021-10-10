@@ -1,19 +1,24 @@
-import React from 'react';
-import {createStackNavigator, TransitionPresets} from '@react-navigation/stack';
-import {InitialStack} from './InititalStack';
-import {AuthStack} from './AuthStack';
-import {TabStack} from './TabsStack';
+import React from "react";
+import {
+  createStackNavigator,
+  TransitionPresets,
+} from "@react-navigation/stack";
+import { InitialStack } from "./InititalStack";
+import { AuthStack } from "./AuthStack";
+import { TabStack } from "./TabsStack";
+import { OnboardingStack } from "./OnboardingStack";
 export const MainStack = () => {
   const MainStack = createStackNavigator();
-  const AppStacks = [...InitialStack, ...AuthStack];
+  const AppStacks = [...InitialStack, ...AuthStack, ...OnboardingStack];
   return (
     <MainStack.Navigator
-      initialRouteName={'SplashScreen'}
+      initialRouteName={"SplashScreen"}
       screenOptions={{
         headerShown: false,
         ...TransitionPresets.SlideFromRightIOS,
-      }}>
-      {AppStacks.map(stack => (
+      }}
+    >
+      {AppStacks.map((stack) => (
         <MainStack.Screen {...stack} />
       ))}
       <MainStack.Screen component={TabStack} name="Tabs" />
