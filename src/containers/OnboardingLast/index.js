@@ -64,7 +64,7 @@ export const OnboardingLast = (props) => {
             padding: Metrix.VerticalSize(20),
           }}
         >
-          <TextInput placeholder="Enter in detail.." multiline />
+          <TextInput color= "black" placeholder="Enter in detail.." multiline />
         </View>
         <View style={{width: '100%', justifyContent: 'flex-end', flexDirection: 'row', paddingHorizontal: Metrix.HorizontalSize(20)}}>
         <TouchableOpacity
